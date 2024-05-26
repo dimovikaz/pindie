@@ -1,1 +1,1 @@
-# games-rating
+# Pindie
